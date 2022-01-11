@@ -1,4 +1,4 @@
-# <p align="center" style="color:#cb3349" > [Laksis](https://telegram.me/badboy_here) 
+# <p align="center" style="color:#cb3349" > [3rb](https://telegram.me/wtttw) 
 
 <p align="center" style="color: #000040;" > سورس عرب لتنصيب تابع اوامر تنصيب السورس
 
@@ -18,4 +18,4 @@ git clone https://github.com/jsowneosnsoskskssn/NightRang ;cd NightRang;chmod +x
 » وسـوف يعمـل البوت . 
 » معلومه السورس تم اصلاح خطأ التنصيب فيه من قبل https://t.me/wtttw فقط . 
 ``` 
-# <a align="center" >[View in Telegram](https://telegram.me/badboy_here)</a> 
+# <a align="center" >[Dev](https://telegram.me/wtttw)</a> 
